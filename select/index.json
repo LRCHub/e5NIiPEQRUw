@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Danger Danger (feat. icy)",
+  "base_artist": "FZMZ",
+  "createdAt": "2026-01-14T02:41:24.604961Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Danger Danger (feat. icy)",
+      "artist": "FZMZ",
+      "has_synced": true,
+      "path": "select/01_Danger_Danger_(feat._icy)_FZMZ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Danger Danger (feat. icy)",
+      "artist": "FZMZ",
+      "has_synced": true,
+      "path": "select/02_Danger_Danger_(feat._icy)_FZMZ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Danger Danger feat.icy",
+      "artist": "FZMZ",
+      "has_synced": false,
+      "path": "select/pl_01_Danger_Danger_feat.icy_FZMZ.txt"
+    }
+  ]
+}
